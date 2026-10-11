@@ -13,6 +13,5 @@ def read_root():
     return {
         "hello": "world",
         "apiKey": api_key,
-        "environment": env_name,
-        "newVar": "Hi"
+        "environment": env_name
     }
